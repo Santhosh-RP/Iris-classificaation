@@ -4,7 +4,8 @@ The Iris dataset is a classic dataset used in machine learning for classificatio
 <p>Features: It contains four features for each flower: sepal length, sepal width, petal length, and petal width, all measured in centimeters.</p>
 <p>Size: The dataset has 150 samples, with 50 samples from each of the three iris species.</p>
 <p>Origin: The data was first published by Ronald Fisher in 1936.</p>
-![image](https://github.com/Santhosh-RP/Iris-classificaation/assets/109569208/2c11a386-6684-44bc-828c-c49a999ac3ed)
+
+![image](https://github.com/Santhosh-RP/Iris-classificaation/assets/109569208/436d9ecd-32df-49fb-b9ed-735051e22601)
 
 
 The goal of using this dataset is typically to build a model that can predict the iris species based on the flower's measurements. 
