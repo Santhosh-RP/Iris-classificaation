@@ -5,18 +5,18 @@ The Iris dataset is a classic dataset used in machine learning for classificatio
 <p>Size: The dataset has 150 samples, with 50 samples from each of the three iris species.</p>
 <p>Origin: The data was first published by Ronald Fisher in 1936.</p>
 
-![image](https://github.com/Santhosh-RP/Iris-classificaation/assets/109569208/436d9ecd-32df-49fb-b9ed-735051e22601)
+![Iris_2560x1790](https://github.com/Santhosh-RP/Iris-classificaation/assets/109569208/bb6d791d-58ad-436b-9071-cbfb40282425)
 
 
 The goal of using this dataset is typically to build a model that can predict the iris species based on the flower's measurements. 
 
-I performed for iris dataset:
+<p>I performed for iris dataset:</p>
 1. Performed Exploatory Data Analysis(EDA)
 2. Appiled Feature Engineering
 3. Model Training
 4. Model Deployment
 
-Libaries used:
+<p>Libaries used:</p>
 1.Mumpy 
 2.Pandas
 3.Matplotlib
