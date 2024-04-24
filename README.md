@@ -10,18 +10,20 @@ The Iris dataset is a classic dataset used in machine learning for classificatio
 
 The goal of using this dataset is typically to build a model that can predict the iris species based on the flower's measurements. 
 
-<p>I performed for iris dataset:</p>
+<p>I performrd this process</p>
+<p>
 1. Performed Exploatory Data Analysis(EDA)
 2. Appiled Feature Engineering
 3. Model Training
 4. Model Deployment
-
+</p>
 <p>Libaries used:</p>
+<p>
 1.Mumpy 
 2.Pandas
 3.Matplotlib
 4.Seaborn
 5.Skit-learn
-
+</p>
 <p>Deployment link iris xlassification</p>
 https://irisflowerclassification-api-57582c291a96.herokuapp.com/
